@@ -1,6 +1,6 @@
 form { width: 100%; }
 #trollbox {
-  font-family: monospace;
+  font-family: Arial, Helvetica, monospace;
   font-size: small;
 }
 #trollbox_scroll {
