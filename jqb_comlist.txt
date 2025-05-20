@@ -1,0 +1,59 @@
+## jqBot v0.6 [B6]
+Hello, fellow user. Here's all the commands (sort by categories):
+### 1. Utility:
+_help - Shows the help guide to the bot.
+_say <arg> - Make the bot say something.
+_name [name] - Changes the name of the bot.
+_color [color] - Changes the color of the bot.
+_dfm-rn - Shows the current song and artist playing on derp.fm.
+_time - Shows the time in UTC-5 (PET)
+_unixtime - Shows the time in Unix format.
+_igv <number> - Shows the IGV/VAT of the base amount with the next formula: ((num/100)*18)
+_bigv <number> - Shows the base amount of the price with the formula: (num/1.18)
+_celf <number> - Converts Celsius into Fahrenheit.
+_fahc <number> - Converts Fahrenheit into Celsius.
+_celk <number> - Converts Celsius into Kelvin.
+_fahk <number> - Converst Fahrenheit into Kelvin.
+_kmmi <number> - Converts kilometers into miles.
+_mikm <number> - Converts miles into kilometers.
+_room [roomname] - Makes the bot go to a room.
+_save <filename> <content> - Saves a file.
+_load <filename> - Loads a file.
+_hostweather - Shows host's weather info.
+_weather <location> - Shows weather from location. //it has graphics unlike dudebot
+### 2. Text/Info:
+_about - About me.
+_birate [input] - See how bisexual is an object, person, string, or whoever.
+_radio - Shows the link for the QP.FM radio
+_sns - Creator's social.
+_changelog - See the recent changes of the bot.
+_qp-yap - QP-FM's yapping collection.
+_disc - My discord server.
+_gehg [input] - Good evening 'Hain' generator.
+_gahg [input] - Good afternoon 'Hain' generator.
+_gmhg [input] - Good morning 'Hain' generator.
+_ping - Pong!
+_pong - Ping!
+_haincheck - Check if you're hain.
+_topic [text] - Shows topic
+Some facts about TB people/bots, all resumed on a command:
+_applevinyl
+_flapplin
+_hain
+_byzemp
+_mage
+_untitled
+_anton
+_sanstitre
+### 3. Admin Commands (RESTRICTED):
+_ban <home> - Bans user.
+_unban <home> - Unbans user.
+_admincheck - Check if you're admin or not.
+--------------------------------------------
+<> = OBLIGATORY!
+[] = OPTIONAL
+--------------------------------------------
+Any feedback?
+DM me on Discord: @jquiroz01
+or Email me: jquiroz1780@outlook.com
+(C) J. Quiroz (hain) - 2024-2025
